@@ -1,5 +1,5 @@
 # Changelog
-[中文更变日志](https://github.com/TriDiamond/hexo-theme-obsidian/blob/master/CHANGELOG_CN.md)
+[中文更变日志](https://github.com/ptechen/hexo-theme-obsidian/blob/master/CHANGELOG_CN.md)
 
 ## 🚀 v1.4.3 (Nov 13, 2019)
 
@@ -11,7 +11,7 @@ Added `MathJax` support! Also fixed a few issues here and there, smoothen the an
 
 ### Changes
 
-- TOC now only loads up to level 3, this changes fixed the bug when TOC goes over 3 levels the content will overflowing out of the container. ([#20](https://github.com/TriDiamond/hexo-theme-obsidian/issues/20))
+- TOC now only loads up to level 3, this changes fixed the bug when TOC goes over 3 levels the content will overflowing out of the container. ([#20](https://github.com/ptechen/hexo-theme-obsidian/issues/20))
 - Smoothen the animations for article pages.
 
 ## 🚀 v1.4.2 (Nov 11, 2019)
